@@ -366,6 +366,7 @@ function main(){
     menu_sampling(       grid.get_div({width:120,height:120}))
     menu_mouse(          grid.get_div({width:120,height:240}))
     menu_size(          grid.get_div({width:180,height:240}))
+    menu_color(          grid.get_div({width:180,height:120}))
     menu_shape_space_min(grid.get_div({width:240,height:240}))
 
     let col_exp_buttons = grid.get_div({width:240,height:120})
